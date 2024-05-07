@@ -6,13 +6,18 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 Install all the packages outlined in requirments.txt
+
 Use a python version of 3.6
+
 Complete certification to gain access to eICU database: https://physionet.org/content/eicu-crd/2.0/
 
 ### Running the Notebook
 Download the ipynb notebook
+
 Replace eICU data paths to your local files
+
 Run all cells
+
 Note: Training does not take place in this file as it was done in an outside enivorment due to cpu constraints.
 
 ### References
