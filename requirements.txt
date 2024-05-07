@@ -1,0 +1,109 @@
+numpy==1.18.1
+pandas==0.24.2
+scipy==1.4.1
+torch==1.10.2
+trixi==0.1.2.2
+scikit-learn==0.20.2
+captum==0.2.0
+shap==0.35.0
+
+
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+# absl-py==1.4.0
+# aiohttp==3.8.6
+# aiosignal==1.2.0
+# apscheduler==3.6.3
+# async-timeout==4.0.2
+# asynctest==0.13.0
+# attrs==22.2.0
+# backports-zoneinfo==0.2.1
+# cachetools==4.2.2
+# captum==0.2.0
+# certifi==2024.2.2
+# charset-normalizer==2.0.12
+# click==8.0.4
+# cloudpickle==3.0.0
+# colorama==0.4.6
+# colorlover==0.3.0
+# contourpy==1.1.1
+# cycler==0.10.0
+# dataclasses==0.8
+# decorator==4.4.2
+# dill==0.3.4
+# flask==2.0.3
+# fonttools==4.51.0
+# frozenlist==1.2.0
+# grpcio==1.48.2
+# idna==3.6
+# idna-ssl==1.1.0
+# imageio==2.15.0
+# importlib-metadata==7.1.0
+# importlib-resources==6.4.0
+# itsdangerous==2.0.1
+# jinja2==3.0.3
+# joblib==1.4.0
+# jsonpatch==1.32
+# jsonpointer==2.3
+# kiwisolver==1.4.5
+# llvmlite==0.36.0
+# markdown==3.3.7
+# markupsafe==2.0.1
+# matplotlib==3.2.2
+# multidict==5.2.0
+# multiprocess==0.70.12.2
+# networkx==2.5.1
+# numba==0.53.1
+# numpy==1.18.1
+# packaging==24.0
+# pandas==0.24.2=pypi_0
+# pathos==0.2.8=pypi_0
+# pillow==10.3.0=pypi_0
+# pip==21.3.1=pyhd8ed1ab_0
+# plotly==5.18.0=pypi_0
+# portalocker==2.7.0=pypi_0
+# pox==0.3.0=pypi_0
+# ppft==1.6.6.4=pypi_0
+# protobuf==3.19.6=pypi_0
+# pyparsing==3.1.2=pypi_0
+# python==3.6.15=h39d44d4_0_cpython
+# python-dateutil==2.9.0.post0=pypi_0
+# python-graphviz==0.19.1=pypi_0
+# python-telegram-bot==13.12=pypi_0
+# python_abi==3.6=2_cp36m
+# pytz==2024.1=pypi_0
+# pytz-deprecation-shim==0.1.0.post0=pypi_0
+# pywin32==305=pypi_0
+# requests==2.27.1=pypi_0
+# scikit-learn==0.20.2=pypi_0
+# scipy==1.4.1=pypi_0
+# seaborn==0.11.2=pypi_0
+# setuptools==58.0.4=py36ha15d459_2
+# shap==0.35.0=pypi_0
+# six==1.16.0=pypi_0
+# slackclient==2.9.4=pypi_0
+# slicer==0.0.7=pypi_0
+# tb-nightly==1.14.0a20190523=pypi_0
+# tenacity==8.2.2=pypi_0
+# threadpoolctl==3.4.0=pypi_0
+# torch==1.10.2=pypi_0
+# torchvision==0.11.3=pypi_0
+# tornado==6.1=pypi_0
+# tqdm==4.66.2=pypi_0
+# trixi==0.1.2.2=pypi_0
+# typing-extensions==4.11.0=pypi_0
+# tzdata==2024.1=pypi_0
+# tzlocal==4.2=pypi_0
+# ucrt==10.0.22621.0=h57928b3_0
+# umap-learn==0.4.6=pypi_0
+# urllib3==1.26.18=pypi_0
+# vc==14.3=hcf57466_18
+# vc14_runtime==14.38.33130=h82b7239_18
+# visdom==0.2.4=pypi_0
+# vs2015_runtime==14.38.33130=hcb4865c_18
+# websocket-client==1.3.1=pypi_0
+# werkzeug==2.0.3=pypi_0
+# wheel==0.37.1=pyhd8ed1ab_0
+# yarl==1.7.2=pypi_0
+# zipp==3.18.1=pypi_0
